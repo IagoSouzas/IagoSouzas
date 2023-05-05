@@ -15,7 +15,7 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="js" src="https://img.shields.io/badge/React.Js-08B1FA?style=for-the-badge&logo=reactjs&logoColor=black" />
-  <img align="center" alt="js" width=100px src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL&logoColor=yellow" />  
+  <img align="center" alt="js" src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL&logoColor=yellow" />  
   
 </div><br/>
 <br>
