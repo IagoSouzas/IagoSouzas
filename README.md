@@ -23,7 +23,7 @@
 <div align="justify">
   <p>
     Olá, meu nome é Iago Souza, tenho 18 anos e sou uma pessoa apaixonada por tecnologia e inovação.  <br>
-    Atualmente, estou estudando desenvolvimento web no Instituto PROA, onde busco me capacitar.
+    Atualmente, estou estudando desenvolvimento Java, onde procuro aumentar meu conhecimento e melhorar minhas habilidades.
   </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0E8AE6&height=120&section=footer"/>
