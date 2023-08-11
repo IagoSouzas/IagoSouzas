@@ -9,17 +9,25 @@
 </div>
 
 <br>
+
+## Rede Social:
 <div style="display: inline_block" align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/iago-souza-50414a1b4)
+
+   
+</div>
+
+## Skills:
+<div style="display: inline_block" align="center">  
   <img align="center" alt="java" src="https://img.shields.io/badge/JAVA-EAB669?style=for-the-badge&logo=javac&logoColor=blue" />  
+  <img align="center" alt="java" src="https://img.shields.io/badge/SpringBoot-EAB669?style=for-the-badge&logo=springboot&logoColor=blue" />  
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL&logoColor=yellow" /> 
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="reactjs" src="https://img.shields.io/badge/React.Js-08B1FA?style=for-the-badge&logo=reactjs&logoColor=black" />
-   
-  
-  
 </div><br/>
 <br>
 
